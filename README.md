@@ -1,3 +1,13 @@
+# AWS API Visitor Counter
+
+[![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-yellow)](https://aws.amazon.com/lambda/)
+[![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-blue)](https://aws.amazon.com/dynamodb/)
+[![API Gateway](https://img.shields.io/badge/API-Gateway-green)](https://aws.amazon.com/api-gateway/)
+[![Status](https://img.shields.io/badge/Type-Serverless%20API-purple)](#)
+
+This is a simple serverless visitor counter API built with AWS services...
+
+
 # 🧮 AWS API Visitor Counter
 
 This is a simple **serverless visitor counter API** built with AWS services.  
