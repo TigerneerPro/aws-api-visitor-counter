@@ -37,7 +37,7 @@ aws-api-visitor-counter/
 ├── lambda_function.py
 └── README.md
 
-🚀 How to Deploy (Manual)
+## 🚀 How to Deploy (Manual)
 1. Create a DynamoDB table:
 
 Table name: your choice (e.g., VisitorCounter)
@@ -102,7 +102,7 @@ Save the endpoint URL for testing and frontend use
 (Optional) Connect to a static frontend page
 You can fetch the count using fetch() in HTML + JS and display it.
 
-📄 Example Lambda Response
+## 📄 Example Lambda Response
 
 {
   "statusCode": 200,
@@ -116,7 +116,7 @@ You can fetch the count using fetch() in HTML + JS and display it.
 
 You can test the deployed visitor counter by visiting:
 
-🔗 [https://tpxq5sk2z1.execute-api.us-east-1.amazonaws.com/prod/updateVisitorCount](https://tpxq5sk2z1.execute-api.us-east-1.amazonaws.com/prod/updateVisitorCount)
+🔗 https://tpxq5sk2z1.execute-api.us-east-1.amazonaws.com/prod/updateVisitorCount
 
 Or using curl:
 
